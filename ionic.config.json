@@ -1,0 +1,8 @@
+{
+  "name": "parrot-rpg-mobile",
+  "app_id": "9a06fad2",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
